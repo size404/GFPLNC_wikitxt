@@ -41,3 +41,8 @@ return {
   ACCEPT = "哦~原来是这样。",
   APPRECIATE = "就是这样就是这样！"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO kuro TITLE.mp3
+

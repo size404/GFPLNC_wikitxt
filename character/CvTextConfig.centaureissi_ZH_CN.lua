@@ -39,3 +39,8 @@ return {
   MOOD1 = "呵呵。",
   MOOD2 = "嗯？"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO centaureissi TITLE.mp3
+

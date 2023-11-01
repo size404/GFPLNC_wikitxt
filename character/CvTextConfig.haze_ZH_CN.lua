@@ -41,3 +41,8 @@ return {
   APPRECIATE = "真厉害。",
   LOWMOOD = "怎么会……"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO haze TITLE.mp3
+

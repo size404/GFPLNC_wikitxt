@@ -1,0 +1,51 @@
+-- experimental xlua decompilation support enabled, you are on your own!
+local AvgCfg_dorm_fern_02 = {
+  [1] = {
+    content = "我平时最喜欢收集两样东西。一是动植物化石，从鸟类、恐龙到蕨类都有。",
+    contentType = 3,
+    speakerHeroId = 1041,
+    speakerHeroPosId = 2,
+    images = {
+      {
+        imgId = 1,
+        imgType = 3,
+        alpha = 0,
+        imgPath = "fern_avg"
+      }
+    },
+    imgTween = {
+      {
+        imgId = 1,
+        delay = 0,
+        duration = 0,
+        posId = 3,
+        alpha = 0,
+        isDark = false
+      },
+      {
+        imgId = 1,
+        delay = 1,
+        duration = 0.6,
+        posId = 3,
+        alpha = 1,
+        isDark = false
+      }
+    },
+    audio = {
+      voice = {heroId = 1019, voiceId = 113}
+    }
+  },
+  [2] = {
+    content = "二就是折扣券和食品券啦，这样可以最大限度地节省开销。毕竟我可是字面意义上的穷人……",
+    contentType = 3,
+    speakerHeroId = 1041,
+    speakerHeroPosId = 2
+  },
+  [3] = {
+    content = "哎，什么时候才能好好吃上一顿饭呢。",
+    contentType = 3,
+    speakerHeroId = 1041,
+    speakerHeroPosId = 2
+  }
+}
+return AvgCfg_dorm_fern_02

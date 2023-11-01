@@ -39,3 +39,8 @@ return {
   MOOD1 = "诶嘿嘿~",
   ACCEPT = "了解！"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO helix TITLE.mp3
+

@@ -16,3 +16,8 @@ return {
   WUXIA_MVP1 = "一次切磋罢了，承让。",
   WUXIA_RETREAT = "空有采菊之愿……终不得见南山……"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO hatsuchiri TITLE.mp3
+

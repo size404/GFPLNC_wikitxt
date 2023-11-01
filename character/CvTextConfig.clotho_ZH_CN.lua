@@ -66,3 +66,8 @@ return {
   INTERACT3 = "嗯……唔……",
   MOOD1_2 = "嘎——哈哈哈哈哈！"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO clotho TITLE.mp3
+

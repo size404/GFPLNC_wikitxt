@@ -38,3 +38,8 @@ return {
   MOOD1 = "哈哈哈哈哈~",
   TITLE = "云图计划"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO sol TITLE.mp3
+

@@ -16,3 +16,8 @@ return {
   CHRISTMAS_DUTY = "值日吗？呵呵，感觉就像圣诞节还在工作的精灵一样。",
   CHRISTMAS_RETREAT = "巡演，就到此为止了吗……"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO twigs TITLE.mp3
+

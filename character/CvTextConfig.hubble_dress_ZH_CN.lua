@@ -20,3 +20,8 @@ return {
   DRESS_DUTY = "值班吗？我先换身衣服吧。",
   DRESS_RETREAT = "星空，逐渐黯淡……"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO hubble_darkstar TITLE.mp3
+

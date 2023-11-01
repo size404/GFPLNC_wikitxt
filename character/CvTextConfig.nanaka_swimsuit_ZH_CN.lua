@@ -17,3 +17,8 @@ return {
   SWIMSUIT_RETREAT = "被蒸干了喵……",
   L2D = "嘘，这是特别的粉丝福利哟~♥"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO max TITLE.mp3
+

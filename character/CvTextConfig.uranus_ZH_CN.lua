@@ -39,3 +39,8 @@ return {
   LOWMOOD = "【滋滋……滋滋……】",
   MOOD2 = "【蜂鸣声】"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO uranus TITLE.mp3
+

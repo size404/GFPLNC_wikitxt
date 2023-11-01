@@ -44,3 +44,8 @@ return {
   APPRECIATE = "我觉得非常棒！",
   L2D = "呀！教、教授？ ……呼……啊……诶！好尴尬啊。"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO delacey TITLE.mp3
+

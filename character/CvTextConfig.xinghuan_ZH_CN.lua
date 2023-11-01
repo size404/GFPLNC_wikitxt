@@ -39,3 +39,8 @@ return {
   MOOD2 = "你干什么？！",
   AGREE = "哦哦！"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO xinghuan TITLE.mp3
+

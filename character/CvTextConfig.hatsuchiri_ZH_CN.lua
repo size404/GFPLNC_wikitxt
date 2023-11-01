@@ -41,3 +41,8 @@ return {
   LOWMOOD = "嗯……",
   L2D = "人类很有趣呢，常常会做出一些我没有办法理解的行为。"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO hatsuchiri TITLE.mp3
+

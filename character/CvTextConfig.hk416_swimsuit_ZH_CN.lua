@@ -16,3 +16,8 @@ return {
   SWIMSUIT_MVP2 = "我已经习惯了。",
   SWIMSUIT_RETREAT = "这份耻辱，绝对会加倍奉还！"
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO helix TITLE.mp3
+

@@ -43,3 +43,8 @@ return {
   ACCEPT = "一切都在掌控之中。",
   L2D = ""
 }
+|标题1=游戏标题<br>TITLE
+|日文1=
+|中文1=云图计划
+|语音1=VO dupin TITLE.mp3
+
